@@ -1,4 +1,4 @@
-name: LinkedIn Job Scraper — Burkina Faso
+name: Scraper
 on:
   schedule:
     - cron: "26 2,5,8,11,14,17,20,23 * * *"   # Burkina Faso is UTC+0, no DST
